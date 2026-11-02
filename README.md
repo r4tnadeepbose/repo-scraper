@@ -32,17 +32,17 @@ or doing respectful team and developer research from publicly shared work.
 
 ## Screenshots
 
-Screenshots can be added here when they are available:
+### Dashboard
 
-```text
-screenshots/
-├── dashboard.png
-├── repository-details.png
-└── html-report.png
-```
+![repo-scraper dashboard](./screenshots/dashboard.png)
+
+### HTML report
+
+![repo-scraper HTML report](./screenshots/r4tnadeepbose-report.png)
 
 The application includes a dark repository dashboard, searchable repository
-details, README rendering, file-tree browsing, and a standalone HTML report.
+details, README rendering, file-tree browsing, and a standalone HTML report
+with copy controls for complete reports and compact repository highlights.
 
 ## Features
 
@@ -120,4 +120,4 @@ github-crawler/
 
 ## License
 
-No license has been specified for this project yet.
+This project is released under the [MIT License](./LICENSE).
